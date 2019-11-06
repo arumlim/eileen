@@ -1,3 +1,7 @@
 Hello
 This is My first time on github.
 thanks!
+
+And I'm trying to edit this file.
+I'm in Pohang in korea.
+
